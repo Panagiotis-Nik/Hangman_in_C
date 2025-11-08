@@ -20,14 +20,14 @@ To compile the source code and run the game, follow these simple steps in your t
     To compile the C source files and create the executable, run the following command:
 
     ```bash
-    make Hangman_in_c
+    make Hangman_in_C
     ```
 
 2.  **Run the Game:**
     Once the executable is built, you can start playing by running:
 
     ```bash
-    ./Hangman_in_c
+    ./Hangman_in_C
     ```
 
 Enjoy playing Hangman! 🥳
